@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Ghani+%F0%9F%91%8B;Software+Engineering+Student;Arch+Linux+%2B+Hyprland+User;Learning+By+Building;Always+Exploring+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Ghani;Software+Engineering+Student;Arch+Linux+%2B+Hyprland+User;Learning+By+Building;Always+Exploring+New+Technologies" />
 </p>
 
 <div align="center">
@@ -13,7 +13,7 @@ Currently experimenting with different frameworks while diving deeper into moder
 
 ---
 
-## 👋 About Me
+##  About Me
 
 - 🎓 Software Engineering Student
 - 🐧 Daily driving Arch Linux with Hyprland
@@ -25,7 +25,7 @@ Currently experimenting with different frameworks while diving deeper into moder
 
 ---
 
-## ⚡ Tech Stack
+##  Tech Stack
 
 ### Languages
 
@@ -55,7 +55,7 @@ Currently experimenting with different frameworks while diving deeper into moder
 
 ---
 
-## 🌱 Currently Exploring
+##  Currently Exploring
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
@@ -68,7 +68,7 @@ Currently experimenting with different frameworks while diving deeper into moder
 
 ---
 
-## 🎵 Beyond Coding
+##  Beyond Coding
 
 When I'm away from the keyboard, you'll probably find me:
 
@@ -80,7 +80,7 @@ When I'm away from the keyboard, you'll probably find me:
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=excebymn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
@@ -93,7 +93,7 @@ When I'm away from the keyboard, you'll probably find me:
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://instagram.com/excebymn">
