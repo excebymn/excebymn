@@ -1,109 +1,108 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Bima;Vocational+Software+Engineering+Student;Linux+%7C+Web+Development+%7C+UI+Design;Currently+Learning+React+and+Modern+Frontend" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Ghani+%F0%9F%91%8B;Software+Engineering+Student;Arch+Linux+%2B+Hyprland+User;Learning+By+Building;Always+Exploring+New+Technologies" />
 </p>
 
----
+<div align="center">
 
-# 👋 About Me
+### Software Engineering Student • Linux Enthusiast • Web Development
 
-```yaml
-name: Bima
-education: Vocational High School (Software Engineering)
-os: Arch Linux + Hyprland
-currently_learning:
-  - React
-  - Tailwind CSS
-  - Modern Frontend Development
+I enjoy building things, exploring new technologies, and learning through real projects.  
+Currently experimenting with different frameworks while diving deeper into modern frontend development.
 
-interests:
-  - Web Development
-  - UI/UX Design
-  - Linux Customization
-  - Music
-  - Movies
-```
-
-I enjoy building things that solve real problems while learning new technologies along the way.
+</div>
 
 ---
 
-# ⚡ Tech Stack
+## 👋 About Me
+
+- 🎓 Software Engineering Student
+- 🐧 Daily driving Arch Linux with Hyprland
+- 🌱 Currently learning React and Tailwind CSS
+- 💡 Enjoy exploring different frameworks and technologies
+- 🎨 Interested in UI/UX and web design
+- 🎵 Usually coding with music in the background
+- 🚀 Learning by building projects and trying new ideas
+
+---
+
+## ⚡ Tech Stack
 
 ### Languages
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,cpp,dart" />
+</p>
 
 ### Frameworks & Tools
 
-![Vue](https://img.shields.io/badge/Vue.js-42b883?style=flat-square&logo=vue.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-ff2d20?style=flat-square&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=000)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=vue,laravel,flutter,bootstrap,git,github,vscode,mysql" />
+</p>
 
 ### Environment
 
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
-![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=flat-square&logo=wayland&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=linux" />
+</p>
+
+**Daily Driver:** Arch Linux + Hyprland
 
 ---
 
-# 📈 GitHub Statistics
+## 🌱 Currently Exploring
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
+</p>
+
+- Modern frontend development
+- Building cleaner and more responsive UIs
+- Exploring different development workflows
+- Improving project architecture and code organization
+
+---
+
+## 🎵 Beyond Coding
+
+When I'm away from the keyboard, you'll probably find me:
+
+- 🎧 Listening to music
+- 🎬 Watching movies
+- 🎮 Playing games
+- 🐧 Tweaking my Linux setup
+- ☕ Thinking about random project ideas
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=excebymn&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=excebymn&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=excebymn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=excebymn&theme=tokyonight&hide_border=true&background=00000000" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=excebymn&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🎯 Current Goals
-
-- Learn React ecosystem deeply
-- Build better UI/UX experiences
-- Create more real-world projects
-- Improve backend development skills
-- Contribute to open source projects
-
----
-
-# 🎵 Outside Coding
-
-When I'm not coding, you'll probably find me:
-
-🎧 Listening to music  
-🎬 Watching movies  
-🎮 Playing games  
-🐧 Tweaking my Linux setup
-
----
-
-# 🌐 Links
-
-<p align="center">
-
-<a href="https://instagram.com/excebymn">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://discord.com/users/excebym">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=excebymn&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
 </p>
 
 ---
 
+## 🌐 Connect With Me
+
 <p align="center">
-  <i>Building, learning, and improving one project at a time.</i>
+  <a href="https://instagram.com/excebymn">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="https://discord.com/users/excebym">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
 </p>
+
+---
+
+<div align="center">
+
+*"Learning something new, one project at a time."*
+
+</div>
