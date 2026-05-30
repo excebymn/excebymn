@@ -42,7 +42,13 @@ Currently experimenting with different frameworks while diving deeper into moder
 ### Environment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=linux,arch" height="48" />
+
+  <img
+    src="https://cdn.simpleicons.org/hyprland/58E1FF"
+    height="48"
+    alt="Hyprland"
+  />
 </p>
 
 **Daily Driver:** Arch Linux + Hyprland
