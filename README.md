@@ -1,86 +1,104 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Ghani;Software+Engineering+Student;Arch+Linux+%2B+Hyprland+User;Learning+By+Building;Always+Exploring+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Ghani;Software+Engineering+Student;Arch+Linux+%2B+Hyprland+User;Frontend+Developer+in+Progress;Building+Things+One+Project+at+a+Time" />
 </p>
 
 <div align="center">
 
-### Software Engineering Student • Linux Enthusiast • Web Development
+### Software Engineering Student • Linux Enthusiast • Frontend Developer
 
 I enjoy building things, exploring new technologies, and learning through real projects.  
-Currently experimenting with different frameworks while diving deeper into modern frontend development.
+Currently focused on modern frontend development and desktop app experimentation.
 
 </div>
 
 ---
 
-##  About Me
+## 🧠 About Me
 
 - 🎓 Software Engineering Student
-- 🐧 Daily driving Arch Linux with Hyprland
-- 🌱 Currently learning React and Tailwind CSS
-- 💡 Enjoy exploring different frameworks and technologies
-- 🎨 Interested in UI/UX and web design
-- 🎵 Usually coding with music in the background
-- 🚀 Learning by building projects and trying new ideas
+- 🐧 Daily driving Arch Linux + Hyprland
+- 🌱 Currently learning React, TypeScript, and Tauri
+- 💡 Interested in clean UI architecture and scalable frontend systems
+- 🎨 Enjoy UI/UX design and component-based development
+- 🎧 Usually coding with music on
+- 🚀 Learning by building real projects (not just tutorials)
 
 ---
 
-##  Tech Stack
+## ⚙️ Tech Stack
 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,cpp,dart" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,cpp,dart,rust" />
 </p>
-
-### Frameworks & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vue,laravel,flutter,bootstrap,git,github,vscode,mysql" />
-</p>
-
-### Environment
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,arch" height="48" />
-
-  <img
-    src="https://cdn.simpleicons.org/hyprland/58E1FF"
-    height="48"
-    alt="Hyprland"
-  />
-</p>
-
-**Daily Driver:** Arch Linux + Hyprland
 
 ---
 
-##  Currently Exploring
+### Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=react,vue,laravel,flutter,tailwind,vite" />
 </p>
-
-- Modern frontend development
-- Building cleaner and more responsive UIs
-- Exploring different development workflows
-- Improving project architecture and code organization
 
 ---
 
-##  Beyond Coding
+### Desktop / System Development
 
-When I'm away from the keyboard, you'll probably find me:
+<p>
+  <img src="https://skillicons.dev/icons?i=tauri,linux,arch,git,github,vscode,mysql" />
+</p>
 
-- 🎧 Listening to music
+---
+
+### Currently Building With
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,vite,rust,tailwind" />
+</p>
+
+- React (UI system & components)
+- TypeScript (type-safe architecture)
+- Tauri (cross-platform desktop apps)
+- Rust (backend layer for system integration)
+- Tailwind CSS (UI styling system)
+- Zustand (state management)
+
+---
+
+## 🚧 Current Focus
+
+- 🎧 Building a modular desktop music player (Tauri + React)
+- 🧩 Designing widget-based UI architecture
+- ⚡ Improving frontend structure & scalability
+- 🎨 Exploring dynamic UI systems (visualizer, adaptive UI)
+- 🧠 Learning better state management patterns
+
+---
+
+## 🐧 Environment
+
+- **OS:** Arch Linux
+- **WM:** Hyprland
+- **Editor:** VS Code
+- **Terminal:** Custom Linux workflow setup
+- **Workflow:** Minimal, fast, keyboard-driven
+
+---
+
+## 🎧 Beyond Coding
+
+When I'm away from the keyboard:
+
+- 🎵 Listening to music
 - 🎬 Watching movies
-- 🎮 Playing games
+- 🎮 Gaming
 - 🐧 Tweaking my Linux setup
-- ☕ Thinking about random project ideas
+- 💡 Thinking about new project ideas
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=excebymn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
@@ -93,7 +111,7 @@ When I'm away from the keyboard, you'll probably find me:
 
 ---
 
-##  Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://instagram.com/excebymn">
@@ -109,6 +127,6 @@ When I'm away from the keyboard, you'll probably find me:
 
 <div align="center">
 
-*"Learning something new, one project at a time."*
+*"Building scalable ideas into real systems."*
 
 </div>
