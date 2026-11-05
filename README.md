@@ -1,92 +1,25 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Ghani;Software+Engineering+Student;Arch+Linux+%2B+Hyprland+User;Frontend+Developer+in+Progress;Building+Things+One+Project+at+a+Time" />
-</p>
-
 <div align="center">
 
-### 🎓 Software Engineering Student • 🐧 Linux Enthusiast • 💻 Frontend Developer
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m excebymn"></picture>
 
-I enjoy building things, exploring new technologies, and learning through real projects.  
-Currently focused on modern frontend development and desktop app experimentation.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="24.566%" alt=""></picture><a href="https://instagram.com/excebymn"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="18.836%" alt="instagram"></picture></a><a href="https://github.com/excebymn"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="16.014%" alt="github"></picture></a><a href="https://wa.me/6287846395250"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-3-dark.svg"><img src="assets/social-3-light.svg" width="16.014%" alt="github"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="24.566%" alt=""></picture>
 
-</div>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-## 🧠 About Me
+<a href="https://github.com/excebymn/michie"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-michie-dark.svg"><img src="assets/project-michie-light.svg" width="49%" alt="michie"></picture></a>&nbsp;<a href="https://github.com/excebymn/ambaroda"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-ambaroda-dark.svg"><img src="assets/project-ambaroda-light.svg" width="49%" alt="ambaroda"></picture></a>
 
-- 🎓 **Education:** Software Engineering Student
-- 🐧 **Daily Driver:** Arch Linux + Hyprland (Minimal, fast, keyboard-driven)
-- 🌱 **Learning:** React, TypeScript, and Tauri
-- 💡 **Interests:** Clean UI architecture, scalable frontend systems, and component-based development
-- 🎧 **Vibe:** Usually coding with music on 
-- 🚀 **Philosophy:** Learning by building real projects (not just tutorials)
+<a href="https://github.com/excebymn/artomoro"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-artomoro-dark.svg"><img src="assets/project-artomoro-light.svg" width="49%" alt="artomoro"></picture></a>&nbsp;<a href="https://github.com/excebymn/belajarbareng"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-belajarbareng-dark.svg"><img src="assets/project-belajarbareng-light.svg" width="49%" alt="belajarbareng"></picture></a>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
-## ⚙️ Tech Stack & Ecosystem
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🗣️ Languages</h3>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,cpp,dart,rust" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>📦 Frameworks & Libraries</h3>
-      <img src="https://skillicons.dev/icons?i=react,vue,laravel,flutter,tailwind,vite" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛠️ Tools & Systems</h3>
-      <img src="https://skillicons.dev/icons?i=tauri,linux,arch,git,github,vscode,mysql" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ Currently Building With</h3>
-      <img src="https://skillicons.dev/icons?i=react,ts,vite,rust,tailwind" />
-    </td>
-  </tr>
-</table>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
----
+<a href="https://example.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="My website"></picture></a>&nbsp;&nbsp;<a href="https://github.com/excebymn?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="All repositories"></picture></a>
 
-## 🚧 Current Focus
-
-- 🎧 **Tauri Music Player:** Building a modular desktop music player (Tauri + React).
-- 🧩 **UI Architecture:** Designing widget-based and dynamic UI systems (visualizer, adaptive UI).
-- 🧠 **State Management:** Deep diving into better state management patterns with Zustand.
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=excebymn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=excebymn&theme=tokyonight&hide_border=true&background=00000000" />
-</p>
-
-<p align="center">
-  <img height="220" src="https://github-stats-extended.vercel.app/api/top-langs?username=excebymn&layout=pie&langs_count=8&theme=nightowl" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://instagram.com/excebymn" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://discord.com/users/excebym" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<div align="center">
-
-*"Building scalable ideas into real systems."*
+<a href="https://metawka.github.io/expressive-profile/?from=excebymn"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
 </div>
