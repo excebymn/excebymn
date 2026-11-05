@@ -8,10 +8,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/excebymn/michie"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-michie-dark.svg"><img src="assets/project-michie-light.svg" width="49%" alt="michie"></picture></a>&nbsp;<a href="https://github.com/excebymn/ambaroda"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-ambaroda-dark.svg"><img src="assets/project-ambaroda-light.svg" width="49%" alt="ambaroda"></picture></a>
-
-<a href="https://github.com/excebymn/artomoro"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-artomoro-dark.svg"><img src="assets/project-artomoro-light.svg" width="49%" alt="artomoro"></picture></a>&nbsp;<a href="https://github.com/excebymn/belajarbareng"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-belajarbareng-dark.svg"><img src="assets/project-belajarbareng-light.svg" width="49%" alt="belajarbareng"></picture></a>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>

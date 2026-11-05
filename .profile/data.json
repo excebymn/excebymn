@@ -1,0 +1,302 @@
+{
+ "key": "84e695cd",
+ "stars": 1,
+ "contributions": 313,
+ "repos": 17,
+ "followers": 1,
+ "languages": [
+  [
+   "JavaScript",
+   14016694
+  ],
+  [
+   "CSS",
+   5238078
+  ],
+  [
+   "HTML",
+   3225143
+  ],
+  [
+   "TypeScript",
+   782037
+  ],
+  [
+   "Rust",
+   353589
+  ],
+  [
+   "Vue",
+   264541
+  ],
+  [
+   "SCSS",
+   246879
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 31,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 2,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 3,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 5,
+    "today": true
+   },
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 15
+ },
+ "pins": [],
+ "all": [
+  {
+   "name": "michie",
+   "url": "https://github.com/excebymn/michie",
+   "text": "The Music Player That You Wanna Marry",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "artomoro",
+   "url": "https://github.com/excebymn/artomoro",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Vue",
+   "topics": []
+  },
+  {
+   "name": "prototype-ecommerce-website",
+   "url": "https://github.com/excebymn/prototype-ecommerce-website",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "christy",
+   "url": "https://github.com/excebymn/christy",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "belajarbareng",
+   "url": "https://github.com/excebymn/belajarbareng",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Vue",
+   "topics": []
+  },
+  {
+   "name": "ambaroda",
+   "url": "https://github.com/excebymn/ambaroda",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Vue",
+   "topics": []
+  },
+  {
+   "name": "ayu-s-birthday",
+   "url": "https://github.com/excebymn/ayu-s-birthday",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Svelte",
+   "topics": []
+  },
+  {
+   "name": "backup",
+   "url": "https://github.com/excebymn/backup",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "prototype-koperasi",
+   "url": "https://github.com/excebymn/prototype-koperasi",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "prototype-laptop-store-website",
+   "url": "https://github.com/excebymn/prototype-laptop-store-website",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "michie-sidecars",
+   "url": "https://github.com/excebymn/michie-sidecars",
+   "text": "# Michie Sidecars  Binary sidecars used by Michie during GitHub Actions builds.  This repository stores FFmpeg and FFprobe binaries for all supported platforms.  It is not intended for end users.",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Wallpapers",
+   "url": "https://github.com/excebymn/Wallpapers",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "excebymn",
+   "url": "https://github.com/excebymn/excebymn",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "vue-projectpkl",
+   "url": "https://github.com/excebymn/vue-projectpkl",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Vue",
+   "topics": []
+  },
+  {
+   "name": "vue-demopkl",
+   "url": "https://github.com/excebymn/vue-demopkl",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Vue",
+   "topics": []
+  },
+  {
+   "name": "LKS-Dikmen",
+   "url": "https://github.com/excebymn/LKS-Dikmen",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "SMK",
+   "url": "https://github.com/excebymn/SMK",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  }
+ ]
+}
